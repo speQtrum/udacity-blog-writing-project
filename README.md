@@ -1,10 +1,6 @@
 # Udacity Project
 Writing a blog post with Sydney AirBNB data
 
-### Installations
-
-This project was written in the Anaconda environment and Python 3
-
 ### Motivation
 
 The purpose of this project was to explore the Sydney AirBNB data as part of Udacity's Data Science Nanodegree program. The project considers the following 3 questions:
@@ -36,9 +32,9 @@ The data used in this project (860MB unzipped) is available from:
 
 ### Acknowledgements
 
-With thanks to:
+Thanks to:
 
 Udacity - for setting up the project and course contents.
 
-Inside Airbnb - for providing the data. For more information, visit: http://insideairbnb.com/get-the-data.html
+Inside Airbnb. For more information, visit: http://insideairbnb.com/get-the-data.html
 
